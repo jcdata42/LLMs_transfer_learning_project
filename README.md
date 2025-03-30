@@ -31,3 +31,26 @@ The provided **sample dataset** is not intended for training but to give an idea
 
 ## **Note on Fine-Tuning**
 **Fine-tuning pretrained models** is a critical part of this project. By adjusting hyperparameters and training on your specific dataset, you can improve model performance and efficiency.
+
+# Solution Notebook: transfer_learning_AI.ipynb
+
+A complete solution to the project is provided in the notebook transfer_learning_AI.ipynb. This notebook was developed and executed in Amazon SageMaker Studio Lab, a cloud-based environment designed for experimenting with machine learning workflows in a flexible and scalable way.
+
+The solution reflects the project's core objective: to gain hands-on experience in cloud-based development using transfer learning and fine-tuning techniques in Natural Language Processing (NLP).
+
+The notebook includes:
+
+✅ The full implementation of a sentiment analysis model using transfer learning.
+
+
+✅ Executed code cells, allowing immediate inspection of results and outputs.
+
+
+✅ Additional code snippets and in-line explanations to support a deeper understanding of each phase, from tokenization to evaluation.
+
+
+💡 This notebook is both a functional solution and a guided walkthrough for understanding how to apply transfer learning in a modern, cloud-based NLP project.
+
+
+Before running the notebook in your own cloud environment (e.g., Google Colab or SageMaker Studio Lab), remember to update file paths if necessary.
+
