@@ -1,4 +1,4 @@
-# **Transfer Learning and Fine Tuning in Sentiment Analysis** - 42 Urduliz AI Project
+# **Transfer Learning and Fine Tuning in Sentiment Analysis** - 42 Urduliz Bizkaia AI Project
 
 ## **Project Overview**
 
