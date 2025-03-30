@@ -32,7 +32,8 @@ The provided **sample dataset** is not intended for training but to give an idea
 ## **Note on Fine-Tuning**
 **Fine-tuning pretrained models** is a critical part of this project. By adjusting hyperparameters and training on your specific dataset, you can improve model performance and efficiency.
 
-# Solution Notebook: transfer_learning_AI.ipynb
+# Solution Notebook: 
+### transfer_learning_AI.ipynb
 
 A complete solution to the project is provided in the notebook transfer_learning_AI.ipynb. This notebook was developed and executed in Amazon SageMaker Studio Lab, a cloud-based environment designed for experimenting with machine learning workflows in a flexible and scalable way.
 
